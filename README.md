@@ -4,6 +4,8 @@ I'm a Postdoctoral Scholar at the University of Washington in the Civil and Envi
 
 I work at the intersection of data science and cryospheric sciences by utilizing machine learning and other techniques to get a better understanding of the Earth's glaciers from satellite remote sensing data.
 
+![](./imgs/IMG_3763.jpg)
+
 <!--
 **yaramohajerani/yaramohajerani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
