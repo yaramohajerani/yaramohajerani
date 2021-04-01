@@ -4,7 +4,7 @@ I'm the co-founder and CEO of [EnvAI Solutions Inc.](https://envai.ca) an Affili
 
 Find out more about me [here](https://envai.ca).
 
-![](https://github.com/yaramohajerani/yaramohajerani/blob/master/imgs/IMG_3763.jpg)
+![](./imgs/logo.png)
 
 <!--
 **yaramohajerani/yaramohajerani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
