@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Postdoctoral Scholar at the University of Washington in the Civil and Environmental Engineering Deparment.
+I'm the co-founder and CEO of [EnvAI Solutions Inc.](https://envai.ca) an Affiliate Assistant Professor at the University of Washington.
 
-I work at the intersection of data science and cryospheric sciences by utilizing machine learning and other techniques to get a better understanding of the Earth's glaciers from satellite remote sensing data.
+Find out more about me [here](https://envai.ca).
 
 ![](https://github.com/yaramohajerani/yaramohajerani/blob/master/imgs/IMG_3763.jpg)
 
