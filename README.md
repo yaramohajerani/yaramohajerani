@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm the co-founder and CEO of [EnvAI Solutions Inc.](https://envai.ca) an Affiliate Assistant Professor at the University of Washington.
+I'm the Co-Founder and CEO of [EnvAI Solutions Inc.](https://envai.ca) an Affiliate Assistant Professor at the University of Washington.
 
-Find out more about me [here](https://envai.ca).
+Find out more about me [here](https://www.yaramohajerani.com).
 
-![](./imgs/logo.png)
+📫 How to reach me: [yaramohajerani@gmail.com](mailto:yaramohajerani@gmail.com)
 
 <!--
 **yaramohajerani/yaramohajerani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
