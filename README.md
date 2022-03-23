@@ -2,7 +2,7 @@
 
 I'm the Co-Founder and CEO of [EnvAI Solutions Inc.](https://envai.ca), an [eScience Data Science Affiliate](https://escience.washington.edu/people/yara-mohajerani/), and an Affiliate Assistant Professor at the University of Washington.
 
-Find out more about me [here](https://www.yaramohajerani.com).
+Find out more about me [here](https://envai.ca/yara-mohajerani).
 
 📫 Contact me at [yaramohajerani@gmail.com](mailto:yaramohajerani@gmail.com)
 
