@@ -1,6 +1,9 @@
 ### About Me
 
-Climate risk 🌏📉| sustainable finance 🌎💸 | EY Manager 💼 | 2x-founder | UCI PhD 🎓| Toronto 🍁 
+- 🌏📉 Climate risk
+- 🌎💸 Sustainable finance
+- 💼 EY Manager
+- 🎓 UCI PhD 
 
 📫 Contact me at [yaramohajerani@gmail.com](mailto:yaramohajerani@gmail.com)
 
