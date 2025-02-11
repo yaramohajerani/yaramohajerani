@@ -1,9 +1,8 @@
 ### About Me
 
-- 🌏📉 Climate risk
-- 🌎💸 Sustainable finance
-- 💼 EY Manager
-- 🎓 UCI PhD 
+- Co-founder of [Pluripotent Technologies Inc.](https://www.pluripotent.tech)
+- AI-first software for professionals
+- 🎓 UCI PhD, UofT physics
 
 📫 Contact me at [yaramohajerani@gmail.com](mailto:yaramohajerani@gmail.com)
 
