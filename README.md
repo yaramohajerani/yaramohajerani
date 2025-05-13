@@ -1,8 +1,8 @@
 ### About Me
 
 - Co-founder of [Pluripotent Technologies Inc.](https://www.pluripotent.tech)
-- AI-first software for professionals
-- 🎓 UCI PhD, UofT physics
+- Risk assessment and quality assurance solutions
+- 🎓 UC Irvine PhD in Earth System Science, UofT physics undergrad
 
 📫 Contact me at [yaramohajerani@gmail.com](mailto:yaramohajerani@gmail.com)
 
