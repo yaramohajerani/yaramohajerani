@@ -1,7 +1,7 @@
 ### About Me
 
-- Co-founder of [Pluripotent Technologies Inc.](https://www.pluripotent.tech)
-- Risk assessment and quality assurance solutions
+- Founder of [Quantile Labs](https://quantile-labs.com)
+- Climate risk, geospatial analysis, and agent-based modeling. Interested in systemic risks and cascading impacts across financial networks.
 - 🎓 UC Irvine PhD in Earth System Science, UofT physics undergrad
 
 📫 Contact me at [yaramohajerani@gmail.com](mailto:yaramohajerani@gmail.com)
